@@ -13,5 +13,5 @@ else if(randomNumber2>randomNumber1){
     heading.innerHTML="🚩Player 2 Wins!";
 }
 else{
-    heading.innerHTML="🚩Draw!";
+    heading.innerHTML="Draw!";
 }
