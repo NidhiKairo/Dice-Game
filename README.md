@@ -1,1 +1,2 @@
 # Dice-Game
+It generates two random numbers between 1 and 6, and then uses those numbers to select and display the corresponding dice images on the page. The script also compares the two numbers and updates the heading element to display the result of the game, either "Player 1 Wins!", "Player 2 Wins!", or "Draw!". It uses the 'Math.random()' and 'Math.floor()' functions to generate the random numbers, the 'document.querySelector()' function to access the relevant elements on the page, and the 'setAttribute()' function to update the src attribute of the image elements.
